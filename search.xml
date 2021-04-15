@@ -119,7 +119,7 @@
     
     
     <entry>
-      <title>Treasure URL</title>
+      <title>Resources Collection</title>
       <link href="2019/resources-collection.html"/>
       <url>2019/resources-collection.html</url>
       
@@ -128,16 +128,10 @@
       
       <categories>
           
-          <category> Programming </category>
+          <category> Misc </category>
           
       </categories>
       
-      
-        <tags>
-            
-            <tag> Treasure </tag>
-            
-        </tags>
       
     </entry>
     
